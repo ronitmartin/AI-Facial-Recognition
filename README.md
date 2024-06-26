@@ -1,5 +1,5 @@
 # AI-Facial-Recognition
-Real time facial expression detection through a webcam using AI and the 'face-api.js' library.
+Real time face detection through a webcam using AI and the 'face-api.js' library.
 
 - Streams a webcam through HTML
 - Uses Face API to detect faces in real time
